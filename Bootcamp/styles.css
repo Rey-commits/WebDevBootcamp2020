@@ -1,0 +1,25 @@
+
+  body {
+    background-color:#008891;
+    color: white;
+    font-family: serif;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 5px;
+    width: 10%;
+  }
+
+  a {
+    color: #583d72;
+  }
+
+  th {
+    font-size: 30px;
+  }
+  td {
+    font-size: 30px
+  }
