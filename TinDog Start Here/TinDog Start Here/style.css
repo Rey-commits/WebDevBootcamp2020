@@ -1,0 +1,43 @@
+
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+h1 {
+  /*font-family: 'Montserrat-Black';*/
+  /*font-family: 'Ubuntu', sans-serif;*/
+  font-family: 'Poppins', sans-serif;
+  /*font-family: 'PT Serif', serif;*/
+  font-size: 3rem;
+  line-height: 1.5;
+}
+/* navigator bar */
+.navbar-brand {
+  font-family: 'Ubuntu', cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navbar{
+  font-family: 'Poppins', sans-serif;
+  padding: 0 0 4.5rem;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.btn {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+/* download buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
