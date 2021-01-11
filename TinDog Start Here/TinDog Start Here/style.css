@@ -2,7 +2,9 @@
   background-color: #ff4c68;
   color: #fff;
 }
-
+.carousel-item {
+  color: #fff;
+}
 h1 {
   /*font-family: 'Montserrat-Black';*/
   /*font-family: 'Ubuntu', sans-serif;*/
@@ -14,7 +16,6 @@ h1 {
 h2 {
   font-family: 'Poppins', sans-serif;
   font-size: 3rem;
-  color: #fff;
   line-height: 1.5;
 }
 
@@ -93,7 +94,6 @@ p {
 }
 
 #testimonials {
-  padding: 7% 15%;
   text-align: center;
   background-color: #ef8172;
 }
@@ -107,4 +107,8 @@ p {
 .press-logo {
   width: 15%;
   margin: 20px 20px 50px;
+}
+.carousel-item {
+  padding: 7% 15%;
+
 }
