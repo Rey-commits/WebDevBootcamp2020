@@ -1,6 +1,7 @@
 #title {
   background-color: #ff4c68;
   color: #fff;
+  text-align: left;
 }
 
 /* Heading */
@@ -28,13 +29,12 @@ h2 {
   line-height: 1.5;
 }
 
-h3 {
-  font-size: 1.5rem;
-  line-height: 1.5;
-}
-
 p {
   color: #8f8f8f;
+}
+
+body {
+  text-align: center;
 }
 
 /* navigator bar */
@@ -85,8 +85,12 @@ p {
   z-index: 1;
 }
 
+.feature-title {
+  font-size: 1.5rem;
+line-height: 1.5;
+}
+
 .feature-box {
-  text-align: center;
   padding: 5%;
 }
 
@@ -113,13 +117,11 @@ p {
 }
 
 #testimonials {
-  text-align: center;
-  background-color: #ef8172;
+    background-color: #ef8172;
 }
 
 #press {
   background-color: #ef8172;
-  text-align: center;
   padding-bottom: 3%;
 }
 
@@ -134,7 +136,6 @@ p {
 /* pricing section */
 #pricing {
   padding: 100px;
-  text-align: center;
 }
 
 .price-text {
@@ -150,7 +151,6 @@ p {
 background-color: #ff4c68;
 color: #fff;
 padding: 7% 15%;
-text-align:center;
 
 }
 .cta-heading {
@@ -160,7 +160,6 @@ text-align:center;
 
 #footer {
   padding: 7% 15%;
-  text-align: center;
 }
 .social-icon {
   margin: 20px 10px;
